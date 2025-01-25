@@ -47,7 +47,3 @@ Follow these steps to get started with **StockCheckerUI**:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like to tweak or expand any section, such as adding more details about dependencies or usage instructions!
