@@ -1,7 +1,3 @@
-Here's a tailored README for your **StockCheckerUI** project:
-
----
-
 # StockCheckerUI
 
 **StockCheckerUI** is a Python Tkinter-based application that allows users to quickly and efficiently check item stock levels. With its user-friendly interface, StockCheckerUI simplifies stock management tasks for small businesses or personal inventory tracking.
